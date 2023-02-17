@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @unknownsydrome
-- 👀 I’m interested in ... what?
-- 🌱 I’m currently learning ... how?
-- 💞️ I’m looking to collaborate on ... what?
-- 📫 How to reach me ... why?
+- 👋 Hi, I’m @unknownsyndrome
 
 <!---
 unknownsydrome/unknownsydrome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
